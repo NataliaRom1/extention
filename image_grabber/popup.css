@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  width: 400px;
+  padding: 30px;
+}
+
+.quote-title {
+  margin: 0;
+  padding: 0;
+}
+
+.quote {
+  margin: 20px 0 30px;
+  width: 100%;
+  font-size: 20px;
+}
+
+.quote-btn {
+  width: 100%;
+  color: white;
+  background: linear-gradient(#FFF6B7, #F6416C);
+  border-width: 0px;
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}

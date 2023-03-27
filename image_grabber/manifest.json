@@ -1,0 +1,21 @@
+{
+  "name": "Quotes Kanye West",
+  "description": "Extract all images from current web page",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "./images/butterfly-icon-16.png",
+    "24": "./images/butterfly-icon-24.png",
+    "32": "./images/butterfly-icon-32.png",
+    "64": "./images/butterfly-icon-64.png",
+    "128": "./images/butterfly-icon-128.png"
+  },
+  "action": {
+    "default_popup": "./popup.html"
+  },
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "background": {}
+}
