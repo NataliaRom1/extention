@@ -11,11 +11,12 @@
     "128": "./images/butterfly-icon-128.png"
   },
   "action": {
-    "default_popup": "./popup.html"
+    "default_popup": "./src/index.html"
   },
   "permissions": [
     "scripting",
     "activeTab"
   ],
   "background": {}
+
 }

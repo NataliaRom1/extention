@@ -1,0 +1,17 @@
+.extention {
+  display: flex;
+  flex-direction: column;
+}
+
+.extention__header {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.extention__container {
+  align-self: center;
+  width: 400px;
+  padding-bottom: 15px;
+}
